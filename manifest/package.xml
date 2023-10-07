@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>Constants</members>
+		<members>CustomAuthentication</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>OKTA</members>
+		<name>AuthProvider</name>
+	</types>
+	<types>
+		<members>Custom_Client_Credential_Flow__mdt.Auth_Provider__c</members>
+		<members>Custom_Client_Credential_Flow__mdt.ClientId__c</members>
+		<members>Custom_Client_Credential_Flow__mdt.Client_Secret__c</members>
+		<members>Custom_Client_Credential_Flow__mdt.Grant_Type__c</members>
+		<members>Custom_Client_Credential_Flow__mdt.Scope__c</members>
+		<name>CustomField</name>
+	</types>
+	<types>
+		<members>Custom_Client_Credential_Flow.OKTA</members>
+		<name>CustomMetadata</name>
+	</types>
+	<types>
+		<members>Custom_Client_Credential_Flow__mdt</members>
+		<name>CustomObject</name>
+	</types>
+	<version>55.0</version>
+</Package>
